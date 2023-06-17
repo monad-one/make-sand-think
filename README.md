@@ -1,1 +1,1 @@
-# make-sand-think
+thought experiments that can be fully materialised 
